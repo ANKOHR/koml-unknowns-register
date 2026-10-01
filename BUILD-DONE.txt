@@ -1,0 +1,7 @@
+Test count: 31 passed.
+Local implementation commit: eee90f02c7b97f2fb45e831b27437399672c4ca1
+Measured installed CLI demo: 0.641734 seconds; report: 0.192038 seconds.
+
+Built a deterministic, local-file Python CLI with fixtures, run, report, questions and decisions commands. It validates explicit unknown-question records, computes unanswered, blocking and overdue findings with traceable IDs and decision groupings, and renders Markdown or JSON with declared real/synthetic provenance. The build includes a labelled 200-record synthetic ground truth set, a five-record hand-written example, 31 passing tests, adversarial checks, atomic report/state writes, full documentation, lessons and measured synthetic acceptance evidence. Real-use metrics and the final verdict remain pending the required two-week evidence window. No publication was performed.
+
+The commit above identifies the tested implementation. This completion record is committed separately to avoid a self-referential commit hash.
