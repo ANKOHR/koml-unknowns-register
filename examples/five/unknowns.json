@@ -1,0 +1,62 @@
+{
+  "synthetic": true,
+  "label": "SYNTHETIC fixture data",
+  "as_of": "2026-09-30",
+  "records": [
+    {
+      "id": "Q001",
+      "question": "Can the supplier deliver before launch?",
+      "decision": "Decision 01",
+      "status": "open",
+      "blocking": true,
+      "created": "2026-09-01",
+      "due": "2026-09-20",
+      "answer": "",
+      "synthetic": true
+    },
+    {
+      "id": "Q002",
+      "question": "Does the supplier have capacity?",
+      "decision": "Decision 01",
+      "status": "answered",
+      "blocking": true,
+      "created": "2026-09-01",
+      "due": "2026-09-20",
+      "answer": "Supplier confirmed capacity",
+      "synthetic": true
+    },
+    {
+      "id": "Q003",
+      "question": "Which support hours should we offer?",
+      "decision": "Decision 01",
+      "status": "deferred",
+      "blocking": false,
+      "created": "2026-09-01",
+      "due": null,
+      "answer": "",
+      "synthetic": true
+    },
+    {
+      "id": "Q004",
+      "question": "Which backup supplier meets our requirements?",
+      "decision": "Decision 01",
+      "status": "open",
+      "blocking": false,
+      "created": "2026-09-01",
+      "due": "2026-10-10",
+      "answer": "",
+      "synthetic": true
+    },
+    {
+      "id": "Q005",
+      "question": "Has the restore procedure been tested?",
+      "decision": "Decision 01",
+      "status": "answered",
+      "blocking": true,
+      "created": "2026-09-01",
+      "due": "2026-09-20",
+      "answer": "Test completed",
+      "synthetic": true
+    }
+  ]
+}
